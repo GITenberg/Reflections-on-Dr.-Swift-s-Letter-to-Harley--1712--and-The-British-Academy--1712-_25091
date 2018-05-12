@@ -1,0 +1,47 @@
+_repo: Reflections-on-Dr.-Swift-s-Letter-to-Harley--1712--and-The-British-Academy--1712-_25091
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Landa, Louis A.
+    birthdate: 1901
+    gutenberg_agent_id: '28408'
+    url: http://www.gutenberg.org/2009/agents/28408
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Maynwaring, Arthur
+    alias: Mainwaring, Arthur
+    birthdate: 1668
+    deathdate: 1712
+    gutenberg_agent_id: '28407'
+    url: http://www.gutenberg.org/2009/agents/28407
+  - agent_name: Oldmixon, Mr. (John)
+    aliases:
+    - Oldmixon, J. (John)
+    - Oldmixon, John
+    birthdate: 1673
+    deathdate: 1742
+    gutenberg_agent_id: '28406'
+    url: http://www.gutenberg.org/2009/agents/28406
+    wikipedia: http://en.wikipedia.org/wiki/John_Oldmixon
+description: ''
+gutenberg_issued: '2008-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25091'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Académie française'
+- !lcsh 'Swift, Jonathan, 1667-1745. Proposal for correcting, improving, and ascertaining
+  the English tongue'
+- !lcc 'AS'
+- !lcsh 'British Academy, London (Founded ca. 1712)'
+- !lcsh 'English language -- Early works to 1800'
+title: Reflections on Dr. Swift's Letter to Harley (1712) and The British Academy
+  (1712)
+url: http://www.gutenberg.org/ebooks/25091
